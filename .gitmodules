@@ -1,3 +1,0 @@
-[submodule ".\\grpc"]
-	path = .\\grpc
-	url = https://github.com/woohyeok-choi/ABC-Logger-gRPC-Specs
