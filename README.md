@@ -31,4 +31,4 @@ from . import subject_pb2 as subject__pb2
 ```
 
 ## How-to-get Data
-* Please check [src/operation/operation.py]
+* Please check [this code](src/operation/operation.py)
